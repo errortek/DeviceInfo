@@ -1,0 +1,3 @@
+files:
+  - source: /SysInfo/Strings/en-us/*.resw
+    translation: /SysInfo/Strings/%locale%/%original_file_name%/*.resw
